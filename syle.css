@@ -1,0 +1,26 @@
+ body {
+    background: #cccccc;
+   }
+
+   h1 {
+    text-align: center;
+    background: #b31a80;
+   }
+
+p {
+    text-align: center;
+}
+#missao {
+    font-size: 20px
+}
+
+em strong {
+    color: #ff0000;
+}
+
+img{
+    width: 100vw;
+    height: 40vh;
+
+
+}
