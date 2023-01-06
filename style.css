@@ -93,13 +93,17 @@ footer {
 }
 
 form {
-    margin: 40px 0;
+    margin: 40px 0;   
+}
+
+.formulario {
+    margin: 60px;
 }
 
 form label, form legend {
     display:block;
     font-size: 20px;
-    margin: 0 0 10px;
+    margin: 0px 0px 10px;
 }
 
 .input-padrao {
@@ -130,7 +134,8 @@ form label, form legend {
     transform: scale(1.2);
 }
 table {
-    margin: 20px 0 40px;
+    margin: 40px 0 50px;
+    margin: 60px;
 }
 thead {
     background: #812b2b;
@@ -243,17 +248,19 @@ td, th {
     .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
         width: auto;
     }
-}
 
-h1 {
+    h1 {
     text-align: center;
-}
+    }
 
-nav {
-    position: static
-}
+    nav {
+    position: static;
+    }
 
-.lista-beneficios, .imagem-beneficios{
+    .lista-beneficios, .imagem-beneficios {
     width: 100%;
+    }
+
 }
+
 
